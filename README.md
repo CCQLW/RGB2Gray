@@ -36,7 +36,7 @@ int main() {
 
 ### 所需要的时间
 
-![image-1](https://github.com/CCQLW/RGB2Gray/tree/main/pic/image-1.png)
+![image-1](https://github.com/CCQLW/RGB2Gray/blob/main/pic/image-1.png?raw=true)
 
 其中的转化函数
 
@@ -130,4 +130,4 @@ void cvtcolor_bgr_to_gray(const cv::Mat& src, cv::Mat& dst) {
 
 ### 所需要的时间
 
-![image-2](https://github.com/CCQLW/RGB2Gray/tree/main/pic/image-2.png)
+![image-2](https://github.com/CCQLW/RGB2Gray/blob/main/pic/image-2.png?raw=true)
