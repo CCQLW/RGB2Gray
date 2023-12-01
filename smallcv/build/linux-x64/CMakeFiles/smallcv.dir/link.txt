@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsmallcv_d.a CMakeFiles/smallcv.dir/src/smallcv.cpp.o CMakeFiles/smallcv.dir/src/imgproc.cpp.o CMakeFiles/smallcv.dir/src/imdraw.cpp.o CMakeFiles/smallcv.dir/src/imshow.cpp.o CMakeFiles/smallcv.dir/deps/imshow/glad/glad.c.o
+/usr/bin/ranlib libsmallcv_d.a

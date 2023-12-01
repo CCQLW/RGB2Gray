@@ -1,0 +1,16 @@
+# bin
+a.out
+a.exe
+
+# image
+mingren_swap.jpg
+mingren_swap.bmp
+
+# IDE
+.vscode/
+
+# build
+build/*/**
+
+# glfw binary
+deps/imshow/glfw

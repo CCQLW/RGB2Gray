@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64",
+  "command": "/usr/bin/c++  -I/home/perfxlab_cs/qlw/smallcv/src -I/home/perfxlab_cs/qlw/smallcv/deps/stb -I/home/perfxlab_cs/qlw/smallcv/deps/imshow  -march=native  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv.cpp.o -c /home/perfxlab_cs/qlw/smallcv/src/smallcv.cpp",
+  "file": "/home/perfxlab_cs/qlw/smallcv/src/smallcv.cpp",
+  "output": "CMakeFiles/smallcv.dir/src/smallcv.cpp.o"
+},
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64",
+  "command": "/usr/bin/c++  -I/home/perfxlab_cs/qlw/smallcv/src -I/home/perfxlab_cs/qlw/smallcv/deps/stb -I/home/perfxlab_cs/qlw/smallcv/deps/imshow  -march=native  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -std=gnu++11 -o CMakeFiles/smallcv.dir/src/imgproc.cpp.o -c /home/perfxlab_cs/qlw/smallcv/src/imgproc.cpp",
+  "file": "/home/perfxlab_cs/qlw/smallcv/src/imgproc.cpp",
+  "output": "CMakeFiles/smallcv.dir/src/imgproc.cpp.o"
+},
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64",
+  "command": "/usr/bin/c++  -I/home/perfxlab_cs/qlw/smallcv/src -I/home/perfxlab_cs/qlw/smallcv/deps/stb -I/home/perfxlab_cs/qlw/smallcv/deps/imshow  -march=native  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -std=gnu++11 -o CMakeFiles/smallcv.dir/src/imdraw.cpp.o -c /home/perfxlab_cs/qlw/smallcv/src/imdraw.cpp",
+  "file": "/home/perfxlab_cs/qlw/smallcv/src/imdraw.cpp",
+  "output": "CMakeFiles/smallcv.dir/src/imdraw.cpp.o"
+},
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64",
+  "command": "/usr/bin/c++  -I/home/perfxlab_cs/qlw/smallcv/src -I/home/perfxlab_cs/qlw/smallcv/deps/stb -I/home/perfxlab_cs/qlw/smallcv/deps/imshow  -march=native  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -std=gnu++11 -o CMakeFiles/smallcv.dir/src/imshow.cpp.o -c /home/perfxlab_cs/qlw/smallcv/src/imshow.cpp",
+  "file": "/home/perfxlab_cs/qlw/smallcv/src/imshow.cpp",
+  "output": "CMakeFiles/smallcv.dir/src/imshow.cpp.o"
+},
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64",
+  "command": "/usr/bin/cc  -I/home/perfxlab_cs/qlw/smallcv/src -I/home/perfxlab_cs/qlw/smallcv/deps/stb -I/home/perfxlab_cs/qlw/smallcv/deps/imshow   -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -fno-common -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -fno-common -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=multichar -o CMakeFiles/smallcv.dir/deps/imshow/glad/glad.c.o -c /home/perfxlab_cs/qlw/smallcv/deps/imshow/glad/glad.c",
+  "file": "/home/perfxlab_cs/qlw/smallcv/deps/imshow/glad/glad.c",
+  "output": "CMakeFiles/smallcv.dir/deps/imshow/glad/glad.c.o"
+},
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64",
+  "command": "/usr/bin/c++  -I/home/perfxlab_cs/qlw/smallcv/src  -march=native  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -std=gnu++11 -o CMakeFiles/test_size.dir/tests/test_size.cpp.o -c /home/perfxlab_cs/qlw/smallcv/tests/test_size.cpp",
+  "file": "/home/perfxlab_cs/qlw/smallcv/tests/test_size.cpp",
+  "output": "CMakeFiles/test_size.dir/tests/test_size.cpp.o"
+},
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64",
+  "command": "/usr/bin/c++  -I/home/perfxlab_cs/qlw/smallcv/src  -march=native  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -std=gnu++11 -o CMakeFiles/test_loadsave.dir/tests/test_loadsave.cpp.o -c /home/perfxlab_cs/qlw/smallcv/tests/test_loadsave.cpp",
+  "file": "/home/perfxlab_cs/qlw/smallcv/tests/test_loadsave.cpp",
+  "output": "CMakeFiles/test_loadsave.dir/tests/test_loadsave.cpp.o"
+},
+{
+  "directory": "/home/perfxlab_cs/qlw/smallcv/build/linux-x64/examples",
+  "command": "/usr/bin/c++  -I/home/perfxlab_cs/qlw/smallcv/src  -march=native  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -g  -Werror=implicit-function-declaration -Werror=implicit-int -Werror=incompatible-pointer-types -Werror=return-type -Werror=shadow -Werror=return-local-addr -Werror=uninitialized -Werror=format -Werror=int-conversion -Werror=array-bounds -Werror=pointer-arith -Werror=free-nonheap-object -Werror=int-to-pointer-cast -Werror=comment -Werror=unused-value -Werror=write-strings -Werror=multichar -std=gnu++11 -o CMakeFiles/basic_example.dir/example.cpp.o -c /home/perfxlab_cs/qlw/smallcv/examples/example.cpp",
+  "file": "/home/perfxlab_cs/qlw/smallcv/examples/example.cpp",
+  "output": "examples/CMakeFiles/basic_example.dir/example.cpp.o"
+}
+]
